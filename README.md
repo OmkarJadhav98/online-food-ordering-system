@@ -21,10 +21,10 @@ The "Online Food Ordering System" is a Java-based application designed to stream
 <li>Order Management: Restaurants can view and update the status of orders.</li>
 <li>Profile Management: Restaurants can update their contact information and business details.</li>
 
-Delivery Executive
+## Delivery Executive
 
-Order Assignment: Delivery executives are assigned orders for delivery.
-Update Status: Delivery executives can update the status of the order (e.g., out for delivery, delivered).
+<li>Order Assignment: Delivery executives are assigned orders for delivery.</li>
+<li>Update Status: Delivery executives can update the status of the order (e.g., out for delivery, delivered).</li>
 
 Administrator
 
