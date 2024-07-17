@@ -7,9 +7,9 @@ The "Online Food Ordering System" is a Java-based application designed to stream
 
 # Features :
 
-# Customer
+## Customer
 
-Registration and Login: Customers can register and log in to the system.
+• Registration and Login: Customers can register and log in to the system.
 Browse Menu: Customers can view the menus of different restaurants.
 Place Order: Customers can select items from the menu and place an order.
 Track Order: Customers can track the status of their order in real-time.
