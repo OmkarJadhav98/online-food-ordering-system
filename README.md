@@ -1,7 +1,5 @@
 # online-food-ordering-system
 
-# Online_Food_Ordering_System
-
 Overview
 
 The "Online Food Ordering System" is a Java-based application designed to streamline the process of ordering food online. This system allows customers to browse menus from various restaurants, place orders, and have them delivered to their doorstep. It also provides functionalities for restaurant management and order tracking.
