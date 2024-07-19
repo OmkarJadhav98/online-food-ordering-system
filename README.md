@@ -35,7 +35,7 @@ The "Online Food Ordering System" is a Java-based application designed to stream
 # Core Components
 
 ## Entities
-Customer: Represents a customer with attributes such as ID, username, password, and contact information.
+<li>Customer: Represents a customer with attributes such as ID, username, password, and contact information.</li>
 
 Restaurant: Represents a restaurant with attributes such as ID, name, contact information, and a list of menu items.
 
