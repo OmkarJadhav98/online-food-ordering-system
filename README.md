@@ -28,7 +28,7 @@ The "Online Food Ordering System" is a Java-based application designed to stream
 
 ## Administrator
 
-User Management: Admins can manage customer and restaurant accounts.
+<li>User Management: Admins can manage customer and restaurant accounts.<li>
 System Monitoring: Admins can monitor system performance and user activities.
 
 
