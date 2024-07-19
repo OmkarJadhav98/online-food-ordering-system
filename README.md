@@ -22,32 +22,33 @@ The "Online Food Ordering System" is a Java-based application designed to stream
 <li>Profile Management: Restaurants can update their contact information and business details.</li>
 </ul>
 
-# Delivery Executive
-
+## Delivery Executive
+<ul>
 <li>Order Assignment: Delivery executives are assigned orders for delivery.</li>
 <li>Update Status: Delivery executives can update the status of the order (e.g., out for delivery, delivered).</li>
+</ul>
 
-# Administrator
-
+## Administrator
+<ul>
 <li>User Management: Admins can manage customer and restaurant accounts.</li>
 <li>System Monitoring: Admins can monitor system performance and user activities.</li>
-
+</ul>
 
 # Core Components
-
 # Entities
+<ul>
 <li>Customer: Represents a customer with attributes such as ID, username, password, and contact information.</li>
 
-Restaurant: Represents a restaurant with attributes such as ID, name, contact information, and a list of menu items.
+<li>Restaurant: Represents a restaurant with attributes such as ID, name, contact information, and a list of menu items.</li>
 
-Menu: Represents a menu item with attributes such as ID, name, description, price, and availability status.
+<li>Menu: Represents a menu item with attributes such as ID, name, description, price, and availability status.</li>
 
-Order: Represents an order with attributes such as ID, cart, status, and assigned delivery executive.
+<li>Order: Represents an order with attributes such as ID, cart, status, and assigned delivery executive.</li>
 
-Delivery Executive: Represents a delivery executive with attributes such as ID, name, vehicle information, and availability status.
+<li>Delivery Executive: Represents a delivery executive with attributes such as ID, name, vehicle information, and availability status.</li>
 
-Kart: Represents a cart containing selected menu items, the final price, and the associated customer and restaurant.
-
+<li>Kart: Represents a cart containing selected menu items, the final price, and the associated customer and restaurant.</li>
+</ul>
 
 Exceptions
 
