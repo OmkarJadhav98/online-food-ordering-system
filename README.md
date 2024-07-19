@@ -35,7 +35,7 @@ The "Online Food Ordering System" is a Java-based application designed to stream
 </ul>
 
 # Core Components
-# Entities
+## Entities
 <ul>
 <li>Customer: Represents a customer with attributes such as ID, username, password, and contact information.</li>
 
@@ -50,14 +50,14 @@ The "Online Food Ordering System" is a Java-based application designed to stream
 <li>Kart: Represents a cart containing selected menu items, the final price, and the associated customer and restaurant.</li>
 </ul>
 
-Exceptions
+## Exceptions
+<ul>
+<li>NotFoundException: Custom exception for scenarios where a resource is not found.</li>
 
-NotFoundException: Custom exception for scenarios where a resource is not found.
+<li>InvalidException: Custom exception for scenarios involving invalid data.</li>
 
-InvalidException: Custom exception for scenarios involving invalid data.
-
-MenuNotInStockException: Custom exception for scenarios where a menu item is out of stock.
-
+<li>MenuNotInStockException: Custom exception for scenarios where a menu item is out of stock.</li>
+</ul>
 
 Order Status
 
