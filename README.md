@@ -59,38 +59,24 @@ The "Online Food Ordering System" is a Java-based application designed to stream
 <li>MenuNotInStockException: Custom exception for scenarios where a menu item is out of stock.</li>
 </ul>
 
-Order Status
+## Order Status
+<ul>
+<li>RECEIVED: The order has been received by the restaurant.</li>
 
-RECEIVED: The order has been received by the restaurant.
+<li>IN_PROGRESS: The order is being prepared by the restaurant.</li>
 
-IN_PROGRESS: The order is being prepared by the restaurant.
+<li>OUT_FOR_DELIVERY: The order is out for delivery by the delivery executive.</li>
 
-OUT_FOR_DELIVERY: The order is out for delivery by the delivery executive.
+<li>DELIVERED: The order has been delivered to the customer.</li>
+</ul>
 
-DELIVERED: The order has been delivered to the customer.
+## Usage
+<ul>
+<li>Getting Started</li>
 
+<li>Build the Project:
+I use Java IntelliJ IDEA IDE to import and build the project.</li>
 
-Usage
-
-Getting Started
-
-Clone the Repository:
-sh
-Copy code
-git clone https://github.com/yourusername/online-food-ordering-system.git
-
-Build the Project:
-I use Java IntelliJ IDEA IDE to import and build the project.
-
-Run the Application:
-Run the Main class to start the application.
-
-Example Usage
-java
-Copy code
-public class Main {
-public static void main(String[] args) {
-// Create sample instances and demonstrate functionalities
-// Example: Customer registration, placing an order, etc.
-}
-}
+<li>Run the Application:
+Run the Main class to start the application.</li>
+</ul>
