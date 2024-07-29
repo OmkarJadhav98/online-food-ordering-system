@@ -1,3 +1,4 @@
+package com.project.model;
 class Order {
     private long id;
     private Kart kart;
