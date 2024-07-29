@@ -1,3 +1,4 @@
+package com.project.model;
 class Menu {
     private long id;
     private String name;
