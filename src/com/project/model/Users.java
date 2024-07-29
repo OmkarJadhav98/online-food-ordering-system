@@ -1,3 +1,4 @@
+package com.project.model;
 class User { // Changed from Users to User
     private long id;
     private String username;

@@ -1,3 +1,4 @@
+package com.project.model;
 class OrderAssignment {
     private long id;
     private Order order;
