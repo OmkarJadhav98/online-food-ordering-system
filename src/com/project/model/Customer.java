@@ -1,3 +1,5 @@
+package com.project.model;
+
 class Customer {
     private long id;
     private String username;
