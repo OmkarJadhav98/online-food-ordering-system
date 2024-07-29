@@ -1,3 +1,4 @@
+package com.project.model;
 public class ExceptionHandling {
     // Static inner classes for custom exceptions
     public static class NotFoundException extends RuntimeException {
