@@ -1,3 +1,5 @@
+package com.project.model;
+
 class Contact {
     private long id;
     private Address address;
