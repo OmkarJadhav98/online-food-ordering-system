@@ -1,3 +1,4 @@
+package com.project.model;
 class Email {
     private long id;
     private String templateBody;
