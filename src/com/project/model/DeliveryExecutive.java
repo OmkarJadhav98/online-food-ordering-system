@@ -1,3 +1,4 @@
+package com.project.model;
 class DeliveryExecutive {
     private long id;
     private String name;
