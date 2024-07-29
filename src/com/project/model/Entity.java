@@ -1,3 +1,4 @@
+package com.project.model;
 class Entity {
     private long id;
     private String name;
