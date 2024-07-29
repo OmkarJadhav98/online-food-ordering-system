@@ -1,3 +1,5 @@
+package com.project.model;
+
 class Address {
     private long id;
     private String name;
